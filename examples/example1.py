@@ -4,7 +4,7 @@ mb.window("Test", 500, 500, "white")
 
 jugador = mb.draw_sprite(100, 100, "basic_human.png") #POSICION X, POSICION Y, ARCHIVO DE LA IMAGEN
 laser = mb.draw_rect(200, 100, 25, 25, "red") #POSICION X, POSICION Y, TAMAÑO X, TAMAÑO Y, COLOR
-texto = mb.draw_text(300, 300, "TUTORIAL", 30, "black"), POSICION X, POSICION Y, TEXTO, TAMAÑO DE LETRA, COLOR, FUENTE
+texto = mb.draw_text(300, 300, "TUTORIAL", 30, "black"), #POSICION X, POSICION Y, TEXTO, TAMAÑO DE LETRA, COLOR, FUENTE
 
 mb.get_keys() #DETECTA LEFT, RIGHT, UP Y DOWN
 
