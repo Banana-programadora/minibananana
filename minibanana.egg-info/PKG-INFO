@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: minibanana
+Version: 1.0.0
+Summary: Un motor de videojuegos minimalista hecho con Tkinter, actualizaciones constantes
+Home-page: https://github.com/banana-programadora/minibanana
+Author: Bananaprogramadora
+Requires-Python: >=3.11
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
