@@ -11,7 +11,20 @@ keys = {
     "Left": False,
     "Right": False,
     "Up": False,
-    "Down": False
+    "Down": False,
+    "space": False,
+    "Return": False,   # Enter
+    "Escape": False,
+    "Shift_L": False,
+    "Shift_R": False,
+    "Control_L": False,
+    "Control_R": False,
+    "Alt_L": False,
+    "Alt_R": False,
+    "a": False,
+    "d": False,
+    "w": False,
+    "s": False
 }
 
 def window(title : str, width : int, height : int, bg="black", resizable : bool=False):
